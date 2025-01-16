@@ -2,6 +2,9 @@
 
 🌟 **Junior Frontend Developer** | Passionate about crafting beautiful and efficient web/mobile experiences.
 
+![Stats](https://github-readme-stats.vercel.app/api?username=Pabl01802&show_icons=true&theme=tokyonight&line_height=20)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pabl01802&layout=compact&theme=tokyonight)
+
 ---
 
 ### 💻 Tech Stack:
